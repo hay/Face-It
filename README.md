@@ -17,7 +17,7 @@ A "syllabus" and repository of Processing examples for ITP fall workshop about f
     * [Google Earth Faces](http://www.onformative.com/lab/googlefaces/)
     * [CVDazzle](http://cvdazzle.com/)
 * Face Recognition 
-    * [Spurious Memories](http://deweyhagborg.com/spurious/)
+    * [Spurious Memories](http://deweyhagborg.com/projects/spurious-memories)
 * Face Tracking
     * [Dance with your face](http://www.youtube.com/watch?v=dplBh_rxoUc)
     * [Face Substitution](https://vimeo.com/29279198), [Source](https://github.com/arturoc/FaceSubstitution)
